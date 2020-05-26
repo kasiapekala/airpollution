@@ -1,4 +1,4 @@
-# Air Pollution at Poland webapp
+# Air Pollution at Poland web app
 
 Air Pollution web app created as part of final project at "Data engineering - Big Data Postgraduate Studies" in 2018.
 
