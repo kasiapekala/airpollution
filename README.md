@@ -7,3 +7,5 @@ App contains:
 - Tools to review historical (2009-2016) pollution data.
 
 https://pollution-analysis-pl.shinyapps.io/Zanieczyszczenia-PM25-w-Polsce/
+
+Repo contains code for historical pollution data analysis.
