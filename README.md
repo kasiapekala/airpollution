@@ -8,8 +8,7 @@ App contains:
 
 https://pollution-analysis-pl.shinyapps.io/Zanieczyszczenia-PM25-w-Polsce/
 
-Repo contains code for historical pollution data analysis.
-
-Main code: data_import_and_quality_check.R.
-Code to install necessary packages: install_packages.R.
-Additional analysis: data analysis.R
+Repo contains code for historical pollution data analysis:
+- Main code: data_import_and_quality_check.R.
+- Code to install necessary packages: install_packages.R.
+- Additional analysis: data analysis.R
